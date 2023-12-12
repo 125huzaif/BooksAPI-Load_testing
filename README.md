@@ -14,6 +14,7 @@ performing load testing via apache jmeter For more better result
 ramp up period(seconds) : 1 num of threads(users): 500 
 loop count : 10 you can do any changes in number of users, loop to get desired result: 
 Result of this test is displayed using listner :
+
 1.Graph result 
 2. Summary Report 
 
